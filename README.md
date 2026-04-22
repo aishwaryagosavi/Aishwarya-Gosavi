@@ -10,18 +10,18 @@ or Data Analytics in Hamburg.
 
 ---
 
-## 🔍 About Me
-- 🎓 M.Sc. Data Science — Hamburg University of Technology
-- 📍 Based in Hamburg, Germany
-- 💼 Background in data analysis from internships
-- 🌱 Currently learning: SQL, Power BI, Cloud (Azure)
-- 🗣️ Languages: English | German (learning)
+## About Me
+- M.Sc. Data Science — Hamburg University of Technology
+- Based in Hamburg, Germany
+- Background in data analysis from internships
+- Currently learning: SQL, Power BI, Cloud (Azure)
+- Languages: English | German (learning)
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 📦 E-Commerce Sales Analysis
+### E-Commerce Sales Analysis
 Analysis of 99,000+ real orders to identify revenue trends, 
 regional performance gaps and delivery efficiency.
 - Black Friday identified as peak revenue driver
@@ -34,7 +34,7 @@ regional performance gaps and delivery efficiency.
 
 ---
 
-### 🍷 Red Wine Quality — Finding the Best Classifier
+### Red Wine Quality — Finding the Best Classifier
 Compared 3 ML classifiers to predict wine quality on an 
 imbalanced dataset of 1,599 wines.
 - Used SMOTE to handle class imbalance
@@ -47,7 +47,7 @@ imbalanced dataset of 1,599 wines.
 
 ---
 
-### 🎬 Movie Recommendation System
+### Movie Recommendation System
 Content-based recommendation system across 4,760 movies.
 Recommends similar movies based on genre, cast, keywords and director.
 - Used TF-IDF to convert text features into numerical vectors
@@ -60,7 +60,7 @@ Recommends similar movies based on genre, cast, keywords and director.
 
 ---
 
-### 🌐 English to French Language Translator
+### English to French Language Translator
 End-to-end sequence-to-sequence deep learning application 
 that translates English text to French in real time via a 
 desktop GUI built with Tkinter.
@@ -74,7 +74,7 @@ desktop GUI built with Tkinter.
 
 ---
 
-### 📈 Stock Market Prediction Using Stacked LSTM
+### Stock Market Prediction Using Stacked LSTM
 Time series forecasting model predicting stock prices using 
 a 3-layer Stacked LSTM trained on 2,035 days of real market data.
 - Test RMSE of 9.21 — only 6.16% error vs average stock price
@@ -87,7 +87,7 @@ a 3-layer Stacked LSTM trained on 2,035 days of real market data.
 
 ---
 
-## 🛠️ Skills
+## Skills
 
 | Category | Tools |
 |---|---|
@@ -99,7 +99,7 @@ a 3-layer Stacked LSTM trained on 2,035 days of real market data.
 
 ---
 
-## 📫 Connect with Me
+## Connect with Me
 - LinkedIn: [Aishwarya Gosavi](https://www.linkedin.com/in/gosaviaishwarya)
 - GitHub: [aishwaryagosavi](https://github.com/aishwaryagosavi)
 
