@@ -27,7 +27,7 @@ Analysis of 99,000+ real orders to identify revenue trends, regional performance
 - 3 concrete business recommendations delivered
 
 **Tools:** Python, pandas, matplotlib, seaborn
-[View Project →](#)
+[https://github.com/aishwaryagosavi/ecommerce-sales-analysis](#)
 
 ---
 
@@ -39,7 +39,7 @@ Compared 3 ML classifiers to predict wine quality on an imbalanced dataset of 1,
 - Outperformed Logistic Regression by 27%
 
 **Tools:** Python, scikit-learn, imbalanced-learn, seaborn
-[View Project →](#)
+[https://github.com/aishwaryagosavi/RedWineQuality](#)
 
 ---
 
@@ -51,7 +51,7 @@ Content-based recommendation system across 4,760 movies. Recommends similar movi
 - Handles fuzzy user input with difflib matching
 
 **Tools:** Python, scikit-learn, pandas, difflib
-[View Project →](#)
+[https://github.com/aishwaryagosavi/Movie-Recommendation](#)
 
 ---
 
@@ -63,7 +63,7 @@ End-to-end sequence-to-sequence deep learning application that translates Englis
 - Fully functional desktop application — not just a notebook
 
 **Tools:** Python, TensorFlow, Keras, Tkinter
-[View Project →](#)
+[https://github.com/aishwaryagosavi/Language-Translation-with-Machine-Learning](#)
 
 ---
 
@@ -75,7 +75,7 @@ Time series forecasting model predicting stock prices using a 3-layer Stacked LS
 - Fixed class bug that reduced error from 75% to 6.16%
 
 **Tools:** Python, TensorFlow, Keras, scikit-learn, matplotlib
-[View Project →](#)
+[https://github.com/aishwaryagosavi/Stock-Market-Prediction-Forecasting-using-LSTM](#)
 
 ---
 
